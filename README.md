@@ -2,8 +2,8 @@
 
 Contains Python notebooks with the data research for the following stories:
 
-- [https://emanuelkarlsten.se/04/ledamoterna-som-oftast-trycker-fel-i-eu-parlamentet-det-ar-ju-for-mycket/?fbclid=IwAR14dtF36EA9gyEYtAUd9wylcqGi_W0sL2SfxbLh5gTlbgdEWqlS2EvIDLo](Här är de Svenska ledamöterna som oftast trycker fel i EU-parlamentet: ”Det är för mycket”)
-- [https://emanuelkarlsten.se/04/svenska-ledamoter-ar-nast-samst-i-eu-pa-att-trycka-pa-ratt-knapp-vid-votering/](Svenska ledamöter är näst sämst i EU på att rösta – trycker på fel knapp och rättar i efterhand)
+- [Här är de Svenska ledamöterna som oftast trycker fel i EU-parlamentet: ”Det är för mycket”](https://emanuelkarlsten.se/04/ledamoterna-som-oftast-trycker-fel-i-eu-parlamentet-det-ar-ju-for-mycket/?fbclid=IwAR14dtF36EA9gyEYtAUd9wylcqGi_W0sL2SfxbLh5gTlbgdEWqlS2EvIDLo)
+- [Svenska ledamöter är näst sämst i EU på att rösta – trycker på fel knapp och rättar i efterhand](https://emanuelkarlsten.se/04/svenska-ledamoter-ar-nast-samst-i-eu-pa-att-trycka-pa-ratt-knapp-vid-votering/)
 
 Contact jens@jplusplus.org for questions.
 
