@@ -1,0 +1,5 @@
+*.xlsx#
+data/votes/*.csv
+.~lock*
+env
+.ipynb_checkpoints
